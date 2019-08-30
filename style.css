@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1 {
     text-align: center;
     font-size: 4em;
@@ -37,3 +38,44 @@ blockquote{
 #specials > p {
     font-size: 4em;
 }
+=======
+h1 {
+    text-align: center;
+    font-size: 4em;
+}
+h3 {
+    text-align: center;
+    font-size: 3em;
+    font-style: italic;
+}
+p {
+    text-align: center;
+    font-size: 2em;
+}
+.navbar_text { 
+    font-size: 2em;
+}
+.input-group > input {
+    font-size: 2em;
+}
+.container > .lead{
+    font-size: 2em;
+    text-align: center;
+}
+
+.icons > a{
+    padding: 2em;
+}
+blockquote{
+    font-size: 2em;
+}
+.form-group > input {
+    font-size: 2em;
+}
+#footer {
+    font-size: 2em;
+}
+#specials > p {
+    font-size: 4em;
+}
+>>>>>>> 8a1b8e8e2fbd75544d41d662d94ae4b6dfdf9a88
